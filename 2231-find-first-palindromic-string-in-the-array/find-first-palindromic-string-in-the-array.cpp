@@ -10,7 +10,6 @@ public:
         }
         return true;
     }
-
         string firstPalindrome(vector<string> & words) {
             int n = words.size();
             for (int i = 0; i < n; i++) {
